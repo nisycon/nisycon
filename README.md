@@ -11,8 +11,8 @@
 ![](https://skillicons.dev/icons?i=html,css,js,jquery,python,php)
 
 ## Frameworks and Library 🔌
-![](https://skillicons.dev/icons?i=wordpress,webflow,django,flask,sklearn,selenium,tensorflow,electron,nodejs,vue,react)
+![](https://skillicons.dev/icons?i=wordpress,webflow,django,flask,sklearn,selenium,tensorflow,electron,nodejs,vue,react,npm,scss)
 
 ## DB and Dev Tools etc 🔧
-![](https://skillicons.dev/icons?i=mysql,postgres,sqlite,gcp,aws,vscode,docker,windows,linux,ubuntu,github,)
+![](https://skillicons.dev/icons?i=mysql,postgres,sqlite,gcp,aws,vscode,docker,windows,linux,ubuntu,github,obsidian,powershell)
 

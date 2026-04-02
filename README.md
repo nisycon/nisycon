@@ -7,11 +7,11 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nisycon&theme=algolia)
 
-## Programming Languages ⌨
-![](https://skillicons.dev/icons?i=html,css,js,jquery,python,php)
+## Languages ⌨
+![](https://skillicons.dev/icons?i=html,css,js,python,php)
 
 ## Frameworks and Library 🔌
-![](https://skillicons.dev/icons?i=wordpress,webflow,django,flask,fastapi,sklearn,selenium,tensorflow,electron,nodejs,npm,nextjs,react,vue,scss)
+![](https://skillicons.dev/icons?i=wordpress,webflow,django,flask,fastapi,sklearn,selenium,tensorflow,jquery,electron,nodejs,npm,nextjs,react,vue,scss)
 
 ## DB and Dev Tools etc 🔧
 ![](https://skillicons.dev/icons?i=mysql,postgres,sqlite,gcp,aws,vscode,docker,windows,linux,ubuntu,github,obsidian,powershell)
